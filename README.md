@@ -8,7 +8,7 @@
 ## Using Programming Languages 
 ![](https://skillicons.dev/icons?i=c,python,typescript,ruby) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintkurage&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintkurage)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Using Framework 
 ![](https://skillicons.dev/icons?i=react,nextjs,rails) 
