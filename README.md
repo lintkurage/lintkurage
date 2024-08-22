@@ -6,12 +6,12 @@
 3. My hobby is traveling.
 
 ## Using Programming Languages 
-![](https://skillicons.dev/icons?i=c,python,typescript,ruby) 
+![](https://skillicons.dev/icons?i=c,python,typescript) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintkurage)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Using Framework 
-![](https://skillicons.dev/icons?i=react,nextjs,rails) 
+![](https://skillicons.dev/icons?i=react,nextjs) 
 
 ## Using Develop Tools 
 ![](https://skillicons.dev/icons?i=github,figma,xd,photoshop) 
