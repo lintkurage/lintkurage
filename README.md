@@ -1,18 +1,8 @@
 ## iruka2kurage/lintkurage 
 
 ### About Me 
-1. We make a variety of things(example:music,3Dprint,web,book)
-2. university students(Information Science and Technology)
-3. My hobby is traveling
-
-## Examples of productions
-1. Home Page and Blog
-2. kurage pod
-3. Glowing kurage
-
-and more...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintkurage)](https://github.com/anuraghazra/github-readme-stats)
+Master Students and Maker.
+Research : Human Computer Interaction , XR , Knowledge Science
 
 ## Using Programming Language 
 ![](https://skillicons.dev/icons?i=c,python,javascript,typescript) 
